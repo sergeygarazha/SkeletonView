@@ -18,6 +18,5 @@ let package = Package(
 			name: "SkeletonView",
 			dependencies: [],
 			path: "Sources")
-	],
-	swiftLanguageVersions: [.v5]
+	]
 )
